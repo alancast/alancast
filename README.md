@@ -43,7 +43,7 @@
 
 ![alancast's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alancast&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=alancast&label=Page+views&base=393&abbreviated=true)
+![Visitor Count](https://komarev.com/ghpvc/?username=alancast&label=Page+views&abbreviated=true)
 
 ## 🌐 Socials
 
