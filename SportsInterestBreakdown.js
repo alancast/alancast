@@ -13,7 +13,7 @@ const dataSource = {
   category: [
     {
       label: "Sports",
-      tooltext: "Please hover over a sub-category to see details",
+      tooltext: "Hover over a sub-category to see details",
       color: "#ffffff",
       value: "150",
       category: [
