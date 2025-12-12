@@ -39,7 +39,7 @@
 
 ![alancast's Stats](https://github-readme-stats-inky-nu.vercel.app/api?username=alancast&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alancast&hide_border=true&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-cyan-kappa.vercel.app/?user=alancast&hide_border=true&theme=radical)](https://git.io/streak-stats)
 
 ![alancast's Top Languages](https://github-readme-stats-inky-nu.vercel.app/api/top-langs/?username=alancast&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
