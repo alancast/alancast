@@ -8,7 +8,7 @@
 - 〽 Huge University of Michigan fan (where I got undergrad and masters)
 - 👯 Willing to collaborate on most things
 - 💬 Ask me about, managing finances, travel, dev ops, Azure, AWS, C++, Java, etc
-- 📫 How to reach me: LinkedIn message
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alex-lancaster-07b28285/) message
 
 ## 💻 Tech Stack
 
