@@ -5,7 +5,7 @@
 - 💻 I'm a software engineer who sometimes has random GitHub repos.
 - 🏢 Ex-Amazon, Ex-Microsoft
 - 🏈 Passionate sports lover
-- 〽 Huge University of Michigan fan (where I got undergrad and masters)
+- 〽 Huge University of Michigan fan (where I got undergrad and masters degrees)
 - 👯 Willing to collaborate on most things
 - 💬 Ask me about, managing finances, travel, dev ops, Azure, AWS, C++, Java, etc
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alex-lancaster-07b28285/) message
