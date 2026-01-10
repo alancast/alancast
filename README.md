@@ -4,7 +4,7 @@
 
 - 💻 I'm a software engineer who sometimes has random GitHub repos.
 - 🏢 Ex-Amazon, Ex-Microsoft
-- 🏈 Passionate sports fan
+- 🏈 Passionate sports lover
 - 〽 Huge University of Michigan fan (where I got undergrad and masters degrees)
 - 👯 Willing to collaborate on most things
 - 💬 Ask me about, managing finances, travel, dev ops, Azure, AWS, C++, Java, etc
