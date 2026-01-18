@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-- 💻 I'm a software engineer who sometimes has random GitHub repos.
+- 💻 I'm a software engineer who sometimes has random GitHub repos
 - 🏢 Ex-Amazon, Ex-Microsoft
 - 🏈 Passionate sports lover
 - 〽 Huge University of Michigan fan (where I got undergrad and masters degrees)
