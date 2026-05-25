@@ -7,11 +7,15 @@
 - 🏈 Passionate sports lover
 - 〽 Huge University of Michigan fan (where I got undergrad and masters degrees)
 - 👯 Willing to collaborate on most things
-- 💬 Ask me about, managing finances, travel, dev ops, Azure, AWS, C++, Java, etc
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alex-lancaster-07b28285/) message
+- 💬 Ask me about, managing finances, travel, dev ops, Azure, AWS,
+  C++, Java, etc
+- 📫 How to reach me:
+  [LinkedIn](https://www.linkedin.com/in/alex-lancaster-07b28285/)
+  message
 
 ## 💻 Tech Stack
 
+[![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?logo=anthropic&logoColor=fff)](https://claude.ai/code)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://www.java.com/)
@@ -44,6 +48,35 @@
 ![alancast's Top Languages](https://github-readme-stats-inky-nu.vercel.app/api/top-langs/?username=alancast&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=alancast&label=Page+views&abbreviated=true)
+
+## 🏈 Sports Interest Chart
+
+![Sports Interest Breakdown](sports-chart.svg)
+
+An interactive multi-level pie chart showing how I split my sports
+fandom across leagues and teams.
+
+### Rendering the Interactive Chart
+
+**Quickest — open locally (recommended):**
+
+1. Clone this repo
+2. Open `SportsInterestBreakdown.html` in any web browser
+   _(Requires an internet connection to load FusionCharts from CDN)_
+
+**Alternative — JSFiddle:**
+
+1. Go to [jsfiddle.net](https://jsfiddle.net)
+2. In the **HTML** panel, paste:
+
+   ```html
+   <div id="chart-container" style="width:860px;height:640px;"></div>
+   <script src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js"></script>
+   <script src="https://cdn.fusioncharts.com/fusioncharts/latest/themes/fusioncharts.theme.candy.js"></script>
+   ```
+
+3. In the **JavaScript** panel, paste the full contents of [`SportsInterestBreakdown.js`](SportsInterestBreakdown.js)
+4. Click **Run** (or `Ctrl+Enter`)
 
 ## 🌐 Socials
 
