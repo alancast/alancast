@@ -9,6 +9,7 @@
 - 👯 Willing to collaborate on most things
 - 💬 Ask me about, managing finances, travel, dev ops, Azure, AWS,
   C++, Java, etc
+- 👾 My other github account with my ClaudeCode experiments (and uglier commit history) is [here](https://github.com/wardcrazy01894)
 - 📫 How to reach me:
   [LinkedIn](https://www.linkedin.com/in/alex-lancaster-07b28285/)
   message
