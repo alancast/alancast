@@ -1,5 +1,7 @@
 # Hi there 👋
 
+Check my 2026 commit heatmap 🙂
+
 ## 💫 About Me
 
 - 💻 I'm a software engineer who sometimes has random GitHub repos
