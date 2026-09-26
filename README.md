@@ -44,11 +44,11 @@ Check my 2026 commit heatmap 🙂
 
 ## 📊 GitHub Stats
 
-![alancast's Stats](https://github-readme-stats-inky-nu.vercel.app/api?username=alancast&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![alancast's Stats](https://github-stats-extended-taupe.vercel.app/api?username=alancast&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&show=all_time_contribs&hide=contribs)
 
 [![GitHub Streak](https://github-readme-streak-stats-cyan-kappa.vercel.app/?user=alancast&hide_border=true&theme=radical)](https://git.io/streak-stats)
 
-![alancast's Top Languages](https://github-readme-stats-inky-nu.vercel.app/api/top-langs/?username=alancast&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![alancast's Top Languages](https://github-stats-extended-taupe.vercel.app/api/top-langs/?username=alancast&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=alancast&label=Page+views&abbreviated=true)
 
